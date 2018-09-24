@@ -1,0 +1,50 @@
+
+  
+    BODY 
+    {
+	background-color: white;
+	FONT-SIZE : x-large;
+    font-family: Verdana; 
+	color: #000000;
+	}   
+
+
+    TABLE.Titel
+    {
+    background-color: white;
+    font-family: Verdana; 
+    }    
+ 
+ 
+    TD.Titel
+    {
+    padding:0px 0px 0px 0px;
+    font-family:Verdana;
+    FONT-SIZE: xx-large;
+    }
+
+	TD.TitelKlein {
+	padding: 0px 0px 0px 0px;
+	font-family: Verdana;
+	FONT-SIZE: large;
+	font-style:initial;
+}
+    
+    
+    
+    TABLE.Inhalt
+    {
+    background-color: white;
+    font-family: Verdana; 
+    }    
+    
+    
+    TD.Inhalt
+    {
+    border-bottom: 1px solid #000000;     
+    padding:2px 2px 2px 2px;
+    font-family:Verdana;
+    FONT-SIZE: medium;
+    }
+
+ 

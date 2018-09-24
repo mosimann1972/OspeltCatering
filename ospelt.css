@@ -1,0 +1,160 @@
+
+  
+    A:visited 
+    {
+    TEXT-DECORATION: none;
+    color : black;
+    }
+    
+    A:active 
+    {
+    TEXT-DECORATION: none;
+    color : Black;
+    font-weight: normal;
+    }
+    
+    A 
+    {
+    TEXT-DECORATION: none;
+    color : black;
+    }
+  
+	A:hover
+	{
+	text-decoration: underline;
+	color : Black;
+	font-weight: normal;
+	}
+    
+  
+        
+    BODY 
+    {
+	background-color: #FFFFFF;
+	FONT-SIZE : smaller;
+    font-family: Verdana; 
+	color: #000000;
+	}
+	
+	Body.NavigationBestellung
+	{
+	    background-color: #fde4cd;
+	}
+	
+	Body.NavigationKueche
+	{
+	    background-color: #aedfe1;
+	}
+
+    Body.NavigationAdmin
+	{
+	    background-color: #fde4cd;
+	}
+
+
+	
+	Body.Menu
+    {
+    background-color: #F0B95D;
+    }
+	
+
+	
+    TABLE
+    {
+    
+    background-color: #fce5e2;
+    border-top: 1px solid #ee1b3b;
+	border-bottom: 1px solid #ee1b3b;    
+    
+    border-right: 1px solid #ee1b3b;
+	border-left: 1px solid #ee1b3b;    
+	
+       
+    
+    }
+    
+    
+    
+    TABLE.print
+    {
+        background-color: #ffffff;
+    }
+    
+    TABLE.print td,
+    {
+        border: 1px solid #000000;
+        font-family: Verdana; 
+        FONT-SIZE :xx-small;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    table 
+    { 
+        border-collapse: collapse; 
+    } 
+    
+    table td, table th 
+    
+    { 
+        border: 1px solid #FFFFFF; 
+     }
+    
+    
+    
+    TD.ohne
+    {
+    padding:0px 0px 0px 0px,
+    font-family: Verdana;
+    FONT-SIZE:smaller;
+    border: 0px solid #ABABCC;
+    }
+    
+    
+    
+    TD
+    {
+    padding:6px;
+    font-family: Verdana;
+    FONT-SIZE:smaller;
+    border :0.5px line red;
+    }
+    
+    
+    
+    
+    TABLE.ohne
+    {
+    
+    background-color: #fce5e2;
+    border-top: 0px solid #F0B95D;
+	border-bottom: 0px solid #F0B95D;  
+	border-right: 0px solid #F0B95D;
+	border-left: 0px solid #F0B95D;
+	padding: 0px;         
+
+   
+    }
+    
+    
+    
+    topnav {
+  	top: 0.7272em;
+	right: 0;
+  	color: #666;
+	font-size: 91%;
+	background: transparent;
+	FONT-SIZE : xx-large;
+    }
+    
+
+
+        
+ 
